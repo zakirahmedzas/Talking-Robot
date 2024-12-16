@@ -1,3 +1,8 @@
+#https://github.com/zakirahmedzas
+#DROBAN
+
+
+
 import google.generativeai as genai
 from gtts import gTTS
 import tempfile
